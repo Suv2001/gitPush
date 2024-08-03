@@ -1,4 +1,4 @@
+<<<<<<< Updated upstream
 this is my 1st github file kjkjholiwcn
-more content
-more data
-kmkeervw wf
+=======
+this is my 1st github file kjkjholiwcn
