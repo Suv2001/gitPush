@@ -1,4 +1,2 @@
-<<<<<<< Updated upstream
-this is my 1st github file kjkjholiwcn
-=======
+
 this is my 1st github file kjkjholiwcn
